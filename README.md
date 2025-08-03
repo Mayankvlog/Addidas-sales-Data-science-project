@@ -87,11 +87,4 @@ project/
 
 This system should be used as part of a comprehensive fraud detection strategy, complementing existing security measures and expert analysis.
 
-## 👥 Contributing
 
-Contributions welcome! Areas for improvement:
-- Model optimization
-- Feature engineering
-- UI enhancements
-- Documentation
-- Testing
