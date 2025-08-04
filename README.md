@@ -41,7 +41,6 @@ myenv\Scripts\activate     # Windows
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
-pip install -r requirements_app.txt
 ```
 
 ## Usage
@@ -110,3 +109,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 - Author: Mayank
 - GitHub: [@Mayankvlog](https://github.com/Mayankvlog)
+
